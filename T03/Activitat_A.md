@@ -1,5 +1,5 @@
 
-# GUIA T03
+# GUIA T03, ACTIVITAT A
 ---
 
 ### 1) Configuració dels adaptadors de xarxa
