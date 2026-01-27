@@ -84,7 +84,7 @@ Quan torni el Server Manager, veurem una bandereta amb un triangle groc. Clicare
 
 ![](img/image19.png)
 
-A Deployment Configuration, escollirem Add a new forest i posarem el domini waytoit.test.
+A Deployment Configuration, escollirem Add a new forest i posarem el domini translogicXX.test.
 
 ![](img/image20.png)
 
@@ -108,6 +108,6 @@ A la pantalla final començarem la instal·lació. Quan acabi, ens demanarà rei
 
 ![](img/image26.png)
 
-Un cop reiniciat, quan tornem a entrar, veurem el nostre usuari amb el prefix WAYTOIT davant del nom.
+Un cop reiniciat, quan tornem a entrar, veurem el nostre usuari amb el prefix davant del nom.
 
 ![](img/image27.png)
