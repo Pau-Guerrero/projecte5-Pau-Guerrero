@@ -90,7 +90,7 @@ A Deployment Configuration, escollirem Add a new forest i posarem el domini wayt
 
 A Domain Controller Options, introduirem la contrasenya P@ssw0rd i activarem les opcions Domain Name System (DNS) server i Global Catalog (GC).
 
-![](img/image21.png)
+![](img/image51.png)
 
 Finalment, a DNS Options, no tocarem res i clicarem Next.
 
@@ -98,7 +98,7 @@ Finalment, a DNS Options, no tocarem res i clicarem Next.
 
 A continuació, a Additional Options, veurem que se’ns posa un nom automàticament; li donarem a Next.
 
-![](img/image23.png)
+![](img/image52.png)
 
 Després anirem a Review Options, on veurem un resum de les configuracions triades.
 
