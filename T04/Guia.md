@@ -110,4 +110,18 @@ A la pantalla final començarem la instal·lació. Quan acabi, ens demanarà rei
 
 Un cop reiniciat, quan tornem a entrar, veurem el nostre usuari amb el prefix davant del nom.
 
-![](img/image27.png)
+![](img/image53.png)
+
+### 4.Configurar zona horaria
+Per configurar la zona horària, anirem a Ajustos, després a Time & Language, i en l’opció de Zona horària seleccionarem UTC +1 Madrid.
+
+![](img/image54.png)
+
+### 5.DNS
+Ara configurarem el DNS. Per fer-ho, anirem a l’opció DNS Manager:
+
+![](img/image55.png)ç
+
+Dins d’aquí anirem a Forwarders. Clicarem a Edit i afegirem el DNS de Google.
+
+![](img/image56.png)
