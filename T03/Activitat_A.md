@@ -63,6 +63,25 @@ Un cop connectats, utilitzarem la comanda **dir** per veure el contingut del dir
 
 ![](img/9.png)  
 
+Després de realitzar la descàrrega d’arxius en mode anònim, provem de pujar un fitxer. Tal com indica la configuració del servidor, els usuaris anònims no poden pujar fitxers, per això es genera l’error “550 Permission denied”, que confirma que el servidor està funcionant correctament.
+
+![](img/19.png)
+
+A diferència del mode anònim, els usuaris locals del sistema sí poden pujar fitxers al servidor FTP. Per realitzar aquesta prova, primer creem un usuari local al servidor:
+
+```bash
+
+sudo useradd -m ftpuser
+sudo passwd ftpuser
+```
+Després, des del client, ens connectem i posem:
+
+```bash
+put test.txt
+```
+
+![](img/20.png)
+
 ### 10) Analitzar tràfic amb Wireshark
 Obrirem **Wireshark** per capturar i analitzar els paquets FTP que circulen per la xarxa, comprovant la seguretat i el flux de dades.
 
