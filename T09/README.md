@@ -108,3 +108,35 @@ En aquest apartat es llisten les vulnerabilitats relacionades amb CVEs, amb els 
 
 Aquí es mostren els certificats TLS detectats als serveis segurs, amb informació sobre la seva validesa i possibles problemes de seguretat.
 ![](img/33.png)
+
+
+### Vulnerabilitats trobades
+
+Aquesta vulnerabilitat indica que al port 1524/tcp hi ha un possible backdoor anomenat Ingreslock.
+Un backdoor és una “porta del darrere” que permet entrar al sistema sense permís.
+Si algú l’aprofita, podria executar ordres i controlar tota la màquina.
+Per això té una severitat 10.0 (Crítica) i s’ha d’aturar o tancar aquest servei de seguida.
+
+![](img/35.png)
+
+
+Aquesta vulnerabilitat és d’una versió antiga de TWiki que es veu pel port 80/tcp.  
+Permet que algú entri a la web i hi posi codi maliciós (XSS) o fins i tot executi ordres al servidor.  
+Si s’aprofita, l’atacant podria arribar a controlar la pàgina i el sistema on està instal·lat.  
+Per arreglar-ho, cal actualitzar TWiki a una versió nova i protegir bé l’accés a la web.
+
+![](img/36.png)
+
+Aquesta vulnerabilitat afecta Distributed Ruby (dRuby/DRb), que escolta al port 8787/tcp.
+Permet que un atacant enviï codi Ruby al servei i que aquest codi s’executi directament al servidor (execució remota de codi).
+Això pot donar control gairebé total de la màquina a l’atacant.
+Per reduir el risc, s’hauria de desactivar aquest servei, limitar-ne l’accés o actualitzar-lo/corregir-lo.
+
+![](img/37.png)
+
+Aquesta vulnerabilitat indica que el servei rexec està funcionant al servidor.
+rexec és un servei antic que permet executar ordres remotament i sol enviar usuari i contrasenya sense xifrar.
+Un atacant podria espiar aquestes dades o arribar a executar ordres a la màquina.
+El més recomanable és desactivar el servei rexec i no utilitzar-lo.
+
+![](img/38.png)
