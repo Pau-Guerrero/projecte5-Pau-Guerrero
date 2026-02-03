@@ -1,5 +1,5 @@
 
-### 3. Configuració server
+### 1. Configuració server
 Quan s’obri la sessió, el primer que veurem serà una finestra amb el Server Manager.
 
 ![](img/image11.png)
@@ -64,12 +64,12 @@ Un cop reiniciat, quan tornem a entrar, veurem el nostre usuari amb el prefix da
 
 ![](img/image53.png)
 
-### 4.Configurar zona horaria
+### 2.Configurar zona horaria
 Per configurar la zona horària, anirem a Ajustos, després a Time & Language, i en l’opció de Zona horària seleccionarem UTC +1 Madrid.
 
 ![](img/image54.png)
 
-### 5.DNS
+### 3.DNS
 Ara configurarem el DNS. Per fer-ho, anirem a l’opció DNS Manager:
 
 ![](img/image55.png)ç
