@@ -8,7 +8,7 @@ Heu de pensar i treballar com un **equip fundador d’una startup**: definir l�
 
 ## 🧩 Què s’espera de vosaltres
 
-Durant el projecte heu de crear materials reals:
+Durant el projecte heu de crear materials reals: 
 
 *   **Documents tècnics**: plànols, xarxes, arquitectures, pressupostos.
 *   **Prototips**: web (Figma), estructura (Octopus), visuals 2D IA, disseny 3D del local.
