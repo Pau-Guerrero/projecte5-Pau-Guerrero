@@ -3,6 +3,6 @@ Veurem què són les vulnerabilitats, com poden impactar a la seguretat d’un s
 
 Materials i links de suport  
 0226.RA3.AA2 Vulnerabilitats (Moodle Seguretat Informàtica) – vegeu també la Guia.md  
-Enunciat activitiat. RA3 AA2 Vulnerabilitats
+Enunciat activitiat. RA3 AA2 Vulnerabilitatsff
 
 
