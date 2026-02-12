@@ -6,3 +6,6 @@ https://www.canva.com/design/DAHA1mCpKK8/f4hQLxDjxKEKPYPSOLsocg/edit?utm_content
 
 Contingut de la tasca:
 https://drive.google.com/drive/folders/1512NoAVoWj0k_df-urxszAIW7D7bI19K?usp=sharing
+
+# VIDEO FINAL
+https://drive.google.com/file/d/1JTdHhLaMqSG-O0Rg36CIRO0ZS8WUpaVD/view?usp=sharing
